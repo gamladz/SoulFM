@@ -4,8 +4,8 @@ const s = (p) => {
   p.preload = () => {
     audio = p.loadSound('audio/sound10.mp3')
     demo8Shader = p.loadShader('shaders/base.vert', 'shaders/d8.frag')
-    img = p.loadImage('img/pic10.JPG')
-    d_map = p.loadImage('img/pic10.JPG')
+    img = p.loadImage('img/pic10.jpg')
+    d_map = p.loadImage('img/pic10.jpg')
   }
 
   p.setup = () => {
