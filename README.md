@@ -2,7 +2,7 @@
 
 I've always found writing pretty tricky so I wanted to experiment with the design of a blog based on voice, music and image.
 
-![Image Title](link)
+![Check outSoul FM](https://gamladz.github.io/SoulFM/)
 
 
 
@@ -10,7 +10,6 @@ I've always found writing pretty tricky so I wanted to experiment with the desig
 
 - [TweenMax](https://greensock.com/tweenmax) by Greensock
 - [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro
-- Images by [Frankie Cordoba](https://www.instagram.com/byfoul/), [Unsplash profile](https://unsplash.com/@byfoul)
 - Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
