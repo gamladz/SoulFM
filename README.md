@@ -1,4 +1,4 @@
-# [Soul FM is a blog based on Voice](https://gamladz.github.io/SoulFM/)
+# [Soul FM my voice blog](https://gamladz.github.io/SoulFM/)
 
 I've always found writing pretty tricky so I wanted to experiment with the design of a blog based on voice, music and image.
 I've used a set of experimental audio-based image distortion effects made with WebGL.
